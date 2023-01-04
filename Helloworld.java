@@ -5,13 +5,13 @@ public class Helloworld {
 
 	public static void main(String[] args) 
 	{
-		
+
 //------------ BASIC OUPUT + VARIABLES --------
 		
-//		System.out.println("Hello");
-//		System.out.println("Hello World");
-//		 age = 34;
-//		System.out.println(age);
+		System.out.println("Hello");
+		System.out.println("Hello World");
+		int age = 34;
+		System.out.println(age);
 		
 //------------ BASIC INPUT -----------------
 		
